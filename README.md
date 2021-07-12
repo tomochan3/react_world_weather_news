@@ -1,1 +1,4 @@
 # react_world_weather_news
+
+cloneしたらnpm start
+npmのバージョンは一番最新の使えば動くかと
